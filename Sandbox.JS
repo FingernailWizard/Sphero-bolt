@@ -34,4 +34,7 @@ async function startProgram() {
 */
 
 
+async function startProgram() {
+	await roll(450, 60, );
 
+}
