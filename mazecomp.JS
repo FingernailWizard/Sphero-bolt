@@ -6,4 +6,9 @@
 
 async function startProgram() {
 	// programmer: Max Moss - start text and audio commit
+
+
+
+
+	// Programmer: -sound one checkpoint commit
 }
