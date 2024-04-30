@@ -5,5 +5,5 @@
 //program url: https://edu.sphero.com/program/16788343/edit
 
 async function startProgram() {
-	// Write code here
+	// programmer: Max Moss - start text and audio commit
 }
